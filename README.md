@@ -14,11 +14,10 @@ Subject: INT1012 - Introduction to Web
 In this project as an aspiring developer, I have modelled my portfolio website in order to communicate and demonstrate my abilities to prospective employers or as an independent researcher.
 
 I have designed, developed and deployed a website that showcases my talent, abilities and coding experience.
-Brief
 
-Here, I have created a portfolio website which presents me as a developer and IT professional. This online portfolio that provides information about me, my skills, interests, professional knowledge and a showcase of my work.
+Briefely, I have created a portfolio website which presents me as a developer and IT professional. This online portfolio that provides information about me, my skills, interests, professional knowledge and a showcase of my work.
 
-My target audience for the portfolio website is an employer looking to engage a Web Developer and/or IT professional. I expect my future employer to have technical knowledge relating to information technology, software development/coding, programming languages and development stacks and high expectations of professionalism and a positive work ethic.
+The arget audience for my portfolio website is an employer looking to engage a Web Developer and/or IT professional. I expect my future employer to have technical knowledge relating to information technology, software development/coding, programming languages and development stacks and high expectations of professionalism and a positive work ethic.
 
 # Project goals
 
@@ -29,28 +28,28 @@ In this project, there are into three major parts:
 - Presentation
 
 ## Code section
-1: I have implemented four HTML documents which link together and share a common theme, including components to presenting the following information:
+1: I have implemented five HTML documents which link together and share a common theme, including components to presenting the following information:
 - My name and contact details
-- Links to professional accounts in Github and LinkedIn
+- Links to professional accounts in GitHub and LinkedIn
 - My work, study history and a link to my resume
 - Content about me to demonstrate my personality, skills and interests
 - A list of blog posts with titles and date published
 - A blog with placeholders and images
 
-## 2: I have created FOUR components which contain text content that are styled for my audience. I have:
+## 2: I have created FIVE components which contain text content that are styled for my audience. I have:
 - written CSS to style each component
 - placed comments in the CSS and HTML code to identify each component
 - have included some custom styles in separate stylesheets
 - used semantic HTML elements and attributes to add meaning and website accessibility
 
-## 3: There are FOUR components created using HTML and CSS to contain graphical content that are appropriate for my audience. You must:
-- - written CSS to style each component
+## 3: There are FIVE components created using HTML and CSS containing graphical content that are appropriate for my audience. This is what I did:
+- wrote CSS to style each component
 - placed comments in the CSS and HTML code to identify each component
-- have included some custom styles in separate stylesheets
+- included some custom styles in separate stylesheets
 - used semantic HTML elements and attributes to add meaning and website accessibility
 
 ## 4: Here, I have created a responsive layout for each page using HTML and CSS utilising Flexbox and/or CSS Grid to produce a responsive layout that displays all components at mobile, tablet and desktop viewport widths which includes a navigation header.
-I have used valid HTML5semantic HTML elements and attributes to add meaning and accessibility  as displayed.
+I have used valid HTML5 semantic HTML elements and attributes to add meaning and accessibility as displayed.
 
 # Documentation summary
 
@@ -58,7 +57,7 @@ This project is comprised of the following:
 
 ## 4.1. README document
 
-The entire project documentation has been compiled in README.md. This file contains:
+The entire project documentation has been compiled in this README.md. This file contains:
 
     A link (URL) to my published portfolio website
     A link to my GitHub repository
@@ -71,8 +70,6 @@ The entire project documentation has been compiled in README.md. This file conta
         Screenshots
         My target audience
         Tech stack including html, css, and deployment platform.
-
-
 
 
 ## 4.2. Slide deck
@@ -89,13 +86,13 @@ Incorporated in the Slide deck presentation are:
 
 ## 5: An overview or sitemap of all the pages on my website that explains the overall structure of my website and how different pages can be navigated.
 
-## 6: Wireframes of the pages of my website that map out my decision-making process relating to the overall aesthetic of my website
+## 6: Wireframes of the pages of my website that map out my decision-making process relating to the overall aesthetics of my website
 
-## 7: A list of components that I have used how components and styling will help in engaging with my audience
+## 7: A list of components that I have used including how components and styling will help in engaging with my audience
 
 # Presentation
 
-I have made a presentation utilising material on my Slide deck that is just under 8 minutes that I have recorded and uploaded on YouTube:
+I have made a presentation utilising material on my Slide deck that is just under 8 minutes that I have recorded and uploaded on YouTube link: https://youtu.be/RnjRSk47Nek
 
 ## Project submission
 
@@ -103,10 +100,10 @@ I submitted my project via Canvas as a single zip file named as SaulChemonges_T1
 
 # Deliverables
 
-I have made a list of deliverables (which covers all the above requirments for this project) included in my submission. The information should be organised is a logical fashions under a sub-directory named ../term1 which conatains:
+I have made a list of deliverables (which covers all the above requirments for this project) included in my submission. The information has been organised is a logical fashions under a sub-directory named ../SaulChemonges_T1A2 which conatains:
 - the location of the Zip file
 - README.md compiled as a single markdown file in the Root folder of my zip file
-- All files linked by the README.md file is included in a folder named /doc. All resources included in this folder are in either png, pdf or markdown (md) format. The Slide of my presentation in pdf format are located in /ppt folder and the Source code for my entire project is located /src folder. All links to online material have corresponding screenshots included in my submission (where applicable).
+- All files linked by the README.md file is included in a folder named /doc. All resources included in this folder are in either png, pdf or markdown (md) format. The Slide deck of my presentation in pdf format is located in /ppt folder and the Source code for my entire project is located in the /src folder. All links to online material have corresponding screenshots included in my submission (where applicable).
 
 # Glossary
 Component - a component is a block of HTML code styled with CSS which may contain text, graphics or other content arranged aimed at a specific purpose(s), for example: a navigation bar is a component designed with the purpose of allowing a website to be navigated; a call-to-action component has text, a picture and a button with the purpose of calling the user to click on the button.
@@ -114,6 +111,8 @@ Component - a component is a block of HTML code styled with CSS which may contai
 Semantic HTML - or semantic markup is HTML that introduces meaning to the web page rather than just presentation. For example, a <p> tag indicates that the enclosed text is a paragraph. This is both semantic and presentational because people know what paragraphs are and browsers know how to display them.
 
 # Reference
+The material for preparing this work has been obtained largely from the learning material
+from Code Academey at the link below:
 https://ait.instructure.com/courses/4730/assignments/51567
 
 
