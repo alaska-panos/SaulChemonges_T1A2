@@ -96,7 +96,7 @@ I have made a presentation utilising material on my Slide deck that is just unde
 
 ## Project submission
 
-I submitted my project via Canvas as a single zip file named as SaulChemonges_T1A2.zip 
+I submitted my project via Canvas as a single zip file named as SaulChemonges_T1A2.zip. 
 
 # Deliverables
 
