@@ -34,8 +34,8 @@ body {
   }
 }
 .header a img {
-  width: 40px;
-  height: 56px;
+  width: 24px;
+  height: 32px;
   animation-name: slider;
   animation-duration: 3s;
   animation-iteration-count: infinite;
@@ -71,7 +71,7 @@ body {
   }
 }
 .header {
-  background-color: #4d61ba;
+  background-color: #938981;
   padding: 1rem 0.5rem;
 }
 
@@ -131,12 +131,12 @@ nav {
 
 .landing-action-container {
   display: flex;
-  justify-content: center;
+  justify-content: justify;
 }
 .landing-action-container a {
   display: inline-block;
   text-align: center;
-  background-color: #4d61ba;
+  background-color: #F17F29;
   padding: 16px 8px;
   border-radius: 4px;
   text-decoration: none;
@@ -155,7 +155,7 @@ nav {
   }
 }
 .footer {
-  background-color:#4d61ba;
+  background-color: #938981;
 }
 .footer .footer-links {
   margin: 0 auto;
