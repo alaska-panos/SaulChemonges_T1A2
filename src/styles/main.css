@@ -34,8 +34,8 @@ body {
   }
 }
 .header a img {
-  width: 24px;
-  height: 32px;
+  width: 48px;
+  height: 64px;
   animation-name: slider;
   animation-duration: 3s;
   animation-iteration-count: infinite;
@@ -71,7 +71,7 @@ body {
   }
 }
 .header {
-  background-color: #938981;
+  background-color: #a8a6a3;
   padding: 1rem 0.5rem;
 }
 
@@ -131,12 +131,12 @@ nav {
 
 .landing-action-container {
   display: flex;
-  justify-content: justify;
+  justify-content: center;
 }
 .landing-action-container a {
   display: inline-block;
   text-align: center;
-  background-color: #F17F29;
+  background-color: #a8a6a3;
   padding: 16px 8px;
   border-radius: 4px;
   text-decoration: none;
@@ -155,7 +155,7 @@ nav {
   }
 }
 .footer {
-  background-color: #938981;
+  background-color: #a8a6a3;
 }
 .footer .footer-links {
   margin: 0 auto;
@@ -172,7 +172,7 @@ nav {
 }
 
 .portfolio-cards {
-  text-align: center;
+  text-align: justify;
   color: #4f6345;
 }
 .portfolio-cards h1 {
