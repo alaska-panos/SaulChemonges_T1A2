@@ -64,8 +64,8 @@ This project is comprised of the following:
 
 The entire project documentation has been compiled in README.md. This file contains:
 
-    A link (URL) to my published portfolio website
-    A link to my GitHub repository
+    A link (URL) to my published portfolio website at https://alaska-panos.com
+    A link to my GitHub repository at https://github.com/alaska-panos/SaulChemonges_T1A2
     A link to my presentation video on YouTube at https://youtu.be/RnjRSk47Nek
 
     A description of my portfolio website, including,
@@ -104,7 +104,7 @@ I submitted my project via Canvas as a single zip file named as SaulChemonges_T1
 
 # Deliverables
 
-I have made a list of deliverables (which covers all the above requirments for this project) included in my submission. The information should be organised is a logical fashions under a sub-directory named ../term1 which conatains:
+I have made a list of deliverables (which covers all the above requirments for this project) included in my submission. The information should be organised is a logical fashions under a sub-directory named /SaulChemonges_T1A2 which conatains:
 - the location of the Zip file
 - README.md compiled as a single markdown file in the Root folder of my zip file
 - All files linked by the README.md file is included in a folder named /doc. All resources included in this folder are in either png, pdf or markdown (md) format. The Slide of my presentation in pdf format are located in /ppt folder and the Source code for my entire project is located /src folder. All links to online material have corresponding screenshots included in my submission (where applicable).
@@ -115,6 +115,7 @@ Component - a component is a block of HTML code styled with CSS which may contai
 Semantic HTML - or semantic markup is HTML that introduces meaning to the web page rather than just presentation. For example, a <p> tag indicates that the enclosed text is a paragraph. This is both semantic and presentational because people know what paragraphs are and browsers know how to display them.
 
 # Reference
+The information used in my portforlio is drawn from the learning material available at:
 https://ait.instructure.com/courses/4730/assignments/51567
 
 
